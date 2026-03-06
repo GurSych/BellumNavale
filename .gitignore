@@ -1,0 +1,4 @@
+# Tests
+tests/
+# Build artifacts
+client/build/
