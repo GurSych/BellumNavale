@@ -12,11 +12,14 @@
 - Python
 
 **Client:**
-- C++
+- C++ 20
+- CMake
+- [FTXUI](https://github.com/ArthurSonzogni/ftxui)
+- [TinyColor](https://github.com/GurSych/TinyColor)
 
 ## Project structure:
 
-    ├─ docs/                               Documentation files
-    ├─ server/                             Server source files
-    ├─ client/                             Client source files
-    └─ scripts/                            Scripts files
+    ├─ docs/               Documentation files
+    ├─ server/             Server source files
+    ├─ client/             Client source files
+    └─ scripts/            Scripts files
